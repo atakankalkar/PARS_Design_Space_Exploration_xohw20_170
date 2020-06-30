@@ -22,7 +22,7 @@ Participant 2:  Mehmet Atakan Kalkar
 Email participant 1: adamsvs@live.com
 Email participant 2: atakankalkar@gmail.com
 
-
+Link to YouTube Video: https://www.youtube.com/watch?v=wVZGrSAV1GI&feature=youtu.be
  
 
 Board used: Zynq-7000 (ZedBoard)
@@ -35,7 +35,8 @@ Design space exploration of post-quantum cryptographic algorithm,Ring Learning W
 In our project, Ring-LWE Encryption/Decryption was optimized in order to obtain power-efficient, higher performance 
 and reliable design with System on Chip solution.
 
-Link to project repository: https://github.com/atakankalkar/pars_designspaceexp_xohw20_170
+
+
 
  
 
