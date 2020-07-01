@@ -41,13 +41,17 @@ sdk project with given sdk_project file.
 
 ## *In other phases; (Phase 2,3,4,5)*
 
-### script.tcl - script file for synthesize and export RTL
-### vivado_prj.tcl - script file for generating vivado project with our block design
-### hdl - contains system_wrapper.vhd file for helping the tcl file to generating vivado project with block design
-### HLS_ip -  This file helps tcl file to create block design with our accelerator. Also, Includes necessary files for adding repository to IP Catalog (ip file, vhdl and verilog files)
-### HLS_source - includes HLS source files which are used for producing our accelerator in script.tcl
-### hw- includes bitstream file ( .bit file for programming fpga)
-### sdk_project - includes necessary sdk project file and bsp file . Also it includes necessary header and .c files to build a project in Vivado SDK
+ *script.tcl* - script file for synthesize and export RTL
+ 
+ *vivado_prj.tcl* - script file for generating vivado project with our block design
+ 
+ *hdl* - contains system_wrapper.vhd file for helping the tcl file to generating vivado project with block design
+ 
+ *HLS_ip* -  This file helps tcl file to create block design with our accelerator. Also, Includes necessary files for adding repository to IP Catalog (ip file, vhdl and verilog files)
+ 
+ *HLS_source* - includes HLS source files which are used for producing our accelerator in script.tcl
+ 
+ *sdk_project* - includes necessary sdk project file and bsp file . Also it includes necessary header and .c files to build a project in Vivado SDK
 	
 
 
