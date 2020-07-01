@@ -21,7 +21,7 @@ Board used: Zynq-7000 (ZedBoard)
 Software Version: Vivado 2017.4
 		  Vivado HLS 2017.4
 
-Project Description:
+## Project Description:
 
 Design space exploration of post-quantum cryptographic algorithm,Ring Learning With Errors (Ring-LWE), for low latency via HLS.
 In our project, Ring-LWE Encryption/Decryption was optimized in order to obtain power-efficient, higher performance 
