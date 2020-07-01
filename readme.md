@@ -1,4 +1,4 @@
-# **PARS: Design Space Exploration for Low-Latency Ring-LWE via HLS :tiger: **
+# **PARS: Design Space Exploration for Low-Latency Ring-LWE via HLS :tiger:**
 
 Xilinx Open HW Design Contest 2020 Competition  project  xohw20_170
 
