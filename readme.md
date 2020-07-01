@@ -4,18 +4,25 @@ Xilinx Open HW Design Contest 2020 Competition  project  xohw20_170
 
 University name: Eskisehir Technical University	
 
+## *Link to YouTube Video:* 
+https://www.youtube.com/watch?v=wVZGrSAV1GI&feature=youtu.be 
+
 ## *Participant(s):*
 ###   Participant 1 : Adem Savaş 
 ###   Participant 2:  Mehmet Atakan Kalkar
 ###   Supervisor name: Assist. Prof. Dr. İsmail San
-###   Supervisor e-mail: isan@eskisehir.edu.tr
+
 
 
 ## *For further information please contact us:*
+
 ###  Email participant 1: adamsvs@live.com
+
 ###  Email participant 2: atakankalkar@gmail.com
 
-Link to YouTube Video: https://www.youtube.com/watch?v=wVZGrSAV1GI&feature=youtu.be
+###   Supervisor e-mail: isan@eskisehir.edu.tr
+
+
  
  
  ## *Which xilinx board and software we used? :thinking:*
