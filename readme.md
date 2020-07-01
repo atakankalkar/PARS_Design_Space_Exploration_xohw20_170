@@ -38,6 +38,10 @@ and reliable design with System on Chip solution.
  
 ## *Project Report*
  Project phases and more detail about project is shared in this repository as Pars_project_report_xohw20_170.pdf.
+ 
+## *Ring-LWE source code link we used throughout the project:*
+				
+[GitHub](https://github.com/ruandc/Ring-LWE-Encryption)
 
 
 ## *Instructions to build and test project*
@@ -85,6 +89,5 @@ step 4: produced IP core will be ready at the same directory with tcl file
 step 1 : add repository to IP catalog with referencing
  				(your path)...\student_xohw20-170_san_20200630_1\Project_directory\Phase5\HLS_ip\ip
 				
-	http://github.com - automatic!
-[GitHub](http://github.com)
+
 
