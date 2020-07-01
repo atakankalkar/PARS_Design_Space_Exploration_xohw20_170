@@ -84,4 +84,7 @@ step 4: produced IP core will be ready at the same directory with tcl file
 ### If you would like to add our accelerator to your design 2nd way:
 step 1 : add repository to IP catalog with referencing
  				(your path)...\student_xohw20-170_san_20200630_1\Project_directory\Phase5\HLS_ip\ip
+				
+	http://github.com - automatic!
+[GitHub](http://github.com)
 
