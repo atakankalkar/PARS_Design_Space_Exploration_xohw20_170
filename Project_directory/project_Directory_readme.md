@@ -35,11 +35,12 @@ Processing System side by using High Performance port.
 
 
 
-## -- In phase 1 ;
+## *In phase 1 ;*
    just contains sdk_project files because pure software implementation of Ring LWE can be experimented with any bitstream file with any vivado project by creating
 sdk project with given sdk_project file. 
 
-## --In other phases; (Phase 2,3,4,5)
+## *In other phases; (Phase 2,3,4,5)*
+
 ### script.tcl - script file for synthesize and export RTL
 ### vivado_prj.tcl - script file for generating vivado project with our block design
 ### hdl - contains system_wrapper.vhd file for helping the tcl file to generating vivado project with block design
