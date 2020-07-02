@@ -51,8 +51,7 @@ and reliable design with System on Chip solution.
 
 #### Step 1: load sd_image/bootfile/boot.bin file to SD Card
 #### Step 2: Open any terminal program for uart communication
-#### Step 3: insert SD Card to zedboard, automatically fpga will be programmed
- and press any button of(T18,R18,R16,N15,P16) to start application.
+#### Step 3: insert SD Card to zedboard, automatically fpga will be programmed and press any button of(T18,R18,R16,N15,P16) to start application.
 
 ### For SD card booting 2nd way;
 
@@ -72,8 +71,7 @@ and reliable design with System on Chip solution.
 #### Step 4: After generating vivado project  generate bitstream and export hardware including bitstream then, launch sdk
 #### Step 5: Open projects from file system > (your_path)...\student_xohw20-170_san_20200630_1\Project_directory\Phase5\sdk_project
 #### Step 6: Program fpga with (your_path)...\student_xohw20-170_san_20200630_1\Project_directory\Phase5\hw\design_1_wrapper.bit
-#### Step 7: Connect any terminal for uart communication and run the application 
-	for example right click > run as > Launch on Hardware (GDB)
+#### Step 7: Connect any terminal for uart communication and run the application  for example right click > run as > Launch on Hardware (GDB)
 
 
 ### If you would like to add our accelerator to your design 1st way:
@@ -84,8 +82,7 @@ and reliable design with System on Chip solution.
 #### Step 4: produced IP core will be ready at the same directory with tcl file
 
 ### If you would like to add our accelerator to your design 2nd way:
-#### Step 1 : add repository to IP catalog with referencing
- 				(your path)...\student_xohw20-170_san_20200630_1\Project_directory\Phase5\HLS_ip\ip
+#### Step 1 : add repository to IP catalog with referencing (your path)...\student_xohw20-170_san_20200630_1\Project_directory\Phase5\HLS_ip\ip
 				
 
 
